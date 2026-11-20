@@ -1,4 +1,5 @@
 $ErrorActionPreference = "SilentlyContinue"
+$Host.UI.RawUI.WindowTitle = "made with love by vrtualcuts"
 
 function Get-Signature {
 
